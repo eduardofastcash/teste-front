@@ -29,7 +29,7 @@ Após terminar seu projeto, você precisa nos enviar para que possamos avaliar s
 - Faça um fork desse desse repositório em seu Github para poder codar
 - Suba seu projeto em um repositório
 - Adicione um arquivo README.md com os procedimentos para executar o projeto.
-- Envio o link do repositório para o e-mail: daniele.veiga@fastcash.com.br
+- Envio o link do repositório para o e-mail: eduardo.nascimento@fastcash.com.br
 - Pedimos que trabalhe sozinho e não divulgue o resultado na internet
 
 BOA SORTE!
